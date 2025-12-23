@@ -43,6 +43,10 @@ Here is a working Angular live demo :  https://angular.ganatan.com
 # download the example or clone the repo from gitlab
 git clone https://gitlab.com/ganatan/angular-starter.git
 
+# change directory
+cd angular-starter
+cd frontend-angular
+
 # install the repo with npm
 npm install
 
