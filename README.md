@@ -1,4 +1,4 @@
-# Angular 21 Example Starter
+# Angular 21.2.7 Example Starter 
 
 <table>
 <tr>
@@ -30,7 +30,7 @@ Here is a working Angular live demo :  https://angular.ganatan.com
 <p align="center">
   <p align="center">
     <a href="https://angular.ganatan.com/">
-      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 16 Example 
+      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 21 Example 
       Application"/>
     </a>
   </p>
@@ -40,8 +40,8 @@ Here is a working Angular live demo :  https://angular.ganatan.com
 # [Angular Quick start](#angular-quick-start)
 
 ```bash
-# download the example or clone the repo from gitlab
-git clone https://gitlab.com/ganatan/angular-starter.git
+# download the example or clone the repo from github
+git clone https://github.com/ganatan/angular-starter.git
 
 # change directory
 cd angular-starter
