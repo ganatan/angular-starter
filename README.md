@@ -1,4 +1,4 @@
-# Angular 21.2.7 Example Starter 
+# Angular 22.0.2 Example Starter 
 
 
 <table>
@@ -11,9 +11,9 @@
 
 it's part of a repo series designed
 
-to create a **Web Application with Angular 21**
+to create a **Web Application with Angular 22**
 
-* Featuring [**Angular 21.2.8**](https://github.com/angular/angular/releases) & [**Angular CLI 21.2.7**](https://github.com/angular/angular-cli/releases/)
+* Featuring [**Angular 22.0.2**](https://github.com/angular/angular/releases) & [**Angular CLI 22.0.3**](https://github.com/angular/angular-cli/releases/)
 
 
 * See the [**Angular Live demo**](#angular-live-demo), Test the repo with [**Quick start**](#angular-quick-start) and for more information Read the step by step [**Tutorial**](#angular-tutorial) or read the [**Getting started**](#angular-getting-started)
@@ -31,7 +31,7 @@ Here is a working Angular live demo :  https://angular.ganatan.com
 <p align="center">
   <p align="center">
     <a href="https://angular.ganatan.com/">
-      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 21 Example 
+      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 22 Example 
       Application"/>
     </a>
   </p>
