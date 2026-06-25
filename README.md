@@ -1,5 +1,4 @@
-# Angular 22.0.2 Example Starter 
-
+# Angular 22 Starter Application
 
 <table>
 <tr>
